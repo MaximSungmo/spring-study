@@ -56,5 +56,6 @@
 	<modules>
 		<module>spring-study-springex2</module>
 		<module>spring-study-springex3</module>
+		<module>spring-study-springex4</module>
 	</modules>
 </project>
